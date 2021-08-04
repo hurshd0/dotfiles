@@ -38,13 +38,13 @@ brew tap homebrew/cask
 #Apps I use
 # brew install --cask firefox
 # brew install --cask google-chrome
-# brew install --cask notion
-# brew install --cask spotify
-# brew install --cask vlc
+brew install --cask notion
+brew install --cask spotify
+brew install --cask vlc
 # brew install --cask visual-studio-code
-# brew install --cask zoom
-# brew install --cask discord
-# brew install --cask slack
+brew install --cask zoom
+brew install --cask discord
+brew install --cask slack
 brew install --cask iterm2
 brew install google-backup-and-sync
 brew install google-drive
